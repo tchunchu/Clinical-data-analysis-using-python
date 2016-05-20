@@ -1,4 +1,5 @@
 # tarunch
+# Clinical Datawarehouse Integration with Intelligent Systems
 Aim of this projet is to train the algorithm to predict whether a person will have Hypertension based on his or her
 BMI, Cholestrol, Smoking, Systolic pressure etc.
 Here i collected the data sets from health institiue input files there are 3 csv files which contains patients details such as systolic pressure

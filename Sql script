@@ -1,0 +1,9 @@
+# sql script to concatenate the different files
+
+#Here each and every csv file is exported as a individual tables such as table1,table2,table3
+
+#sql command
+
+create TABLE final as
+ 
+   select * from table1 a,table2 b,table3 c where a.RANDID = b.RANDID and b.RANDID = c.RANDID  

@@ -1,4 +1,3 @@
-# tarunch
 # Clinical Datawarehouse Integration with Intelligent Systems
 Aim of this projet is to train the algorithm to predict whether a person will have Hypertension based on his or her
 BMI, Cholestrol, Smoking, Systolic pressure etc.
